@@ -1,0 +1,50 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    width: max-content;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #780001;
+    color: white;
+}
+
+h1 {
+    font-weight: lighter;
+    font-size: 75px;
+    margin: 5vh auto 2vh;
+    padding: 10px;
+}
+
+h2 {
+    font-weight: lighter;
+    font-size: 40px;
+    padding: 10px;
+}
+
+address {
+    font-style: normal;
+    font-size: 20px;
+    padding: 10px;
+}
+
+p {
+    margin: 1vh auto;
+}
+
+#name {
+    margin: 0 auto 2vh;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.contact {
+    margin-top: 2vh;
+    font-size: 25px;
+}
+
+img {
+    height: 300px;
+    box-shadow: 0 0 10px 2px white;
+}
